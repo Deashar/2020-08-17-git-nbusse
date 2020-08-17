@@ -11,7 +11,7 @@
 	- if you opened this in VI(M): ESC plus `:q!`
 	- `git config --global core.editor "nano -w"
 - `HEAD`: tells you where you are looking at history
-- `git log`: shows you your history 
+- `git log`: shows you your history
 	-`git log --oneline`: shows you the first line of the ID for each change
 - `git diff`: shows your current state with last known state differences
 	-  `git diff --staged`: shows difference from staging area with last known
@@ -26,3 +26,7 @@ Asdasdasd
 
 - You can make changes to different parts of a file and it will be combined automatically
 - Look for the >>> and <<<< lines, and fix those lines to what you want to keep
+
+-This line was modified by Tasha to test collaboration
+
+- `git clone <URL>`: clones remote repository to local machine for collaboration purposes
