@@ -30,3 +30,6 @@ Asdasdasd
 -This line was modified by Tasha to test collaboration
 
 - `git clone <URL>`: clones remote repository to local machine for collaboration purposes
+
+This line is to make your life more complicated. Regards <3
+
