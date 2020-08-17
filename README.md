@@ -1,4 +1,4 @@
-# The 2020-08-17-git-nbusse
+# The 2020-08-17-git-nbusse 
 
 - `git init`: create git repository in current folder
 - `git config -- global user.name "Nicolas Busse"
@@ -21,4 +21,8 @@
 - `git push origin master`: pushes master branch to the origin remote
 - `git pull origin master`: pulls the master branch from origin to local computer
 
+- Modified line from github!
+Asdasdasd
+
 - You can make changes to different parts of a file and it will be combined automatically
+- Look for the >>> and <<<< lines, and fix those lines to what you want to keep
