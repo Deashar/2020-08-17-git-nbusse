@@ -17,3 +17,6 @@
 	-  `git diff --staged`: shows difference from staging area with last known
 	- you can use `git log --oneline` to specifiy different versions in histroy
 - `git commit -m "MESSAGE": allos you to type a message in a one line 
+- `git remote add origin <url>`: adds URL with the name origin
+- `git push origin master`: pushes master branch to the origin remote
+- `git pull origin master`: pulls the master branch from origin to local computer
