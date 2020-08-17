@@ -10,5 +10,9 @@
 - `git commit`: commits files in the staging area
 	- if you opened this in VI(M): ESC plus `:q!`
 	- `git config --global core.editor "nano -w"
+- `HEAD`: tells you where you are looking at history
 - `git log`: shows you your history 
 	-`git log --oneline`: shows you the first line of the ID for each change
+- `git diff`: 
+	-  `git diff --staged
+- `git commit -m "MESSAGE": 
