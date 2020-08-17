@@ -9,5 +9,6 @@
 	- `git add README.md`
 - `git commit`: commits files in the staging area
 	- if you opened this in VI(M): ESC plus `:q!`
-- `git config --global core.editor "nano -w"
-
+	- `git config --global core.editor "nano -w"
+- `git log`: shows you your history 
+	-`git log --oneline`: shows you the first line of the ID for each change
