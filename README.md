@@ -13,6 +13,7 @@
 - `HEAD`: tells you where you are looking at history
 - `git log`: shows you your history 
 	-`git log --oneline`: shows you the first line of the ID for each change
-- `git diff`: 
-	-  `git diff --staged
-- `git commit -m "MESSAGE": 
+- `git diff`: shows your current state with last known state differences
+	-  `git diff --staged`: shows difference from staging area with last known
+	- you can use `git log --oneline` to specifiy different versions in histroy
+- `git commit -m "MESSAGE": allos you to type a message in a one line 
